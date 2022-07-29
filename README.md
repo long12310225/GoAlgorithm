@@ -7,7 +7,6 @@
 [![Discord chat](https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA&style=flat-square)](https://discord.gg/c7MnfGFGa6)&nbsp;
 
 ### Algorithms implemented in Go (for education)
-测试
 The repository is a collection of open-source implementation of a variety of algorithms implemented in Go and licensed under [MIT License](LICENSE).
 
 Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
